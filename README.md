@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/space-35/">
+
+![icegif-354](https://github.com/user-attachments/assets/fea84927-849f-4e7d-a9d8-86733e28f887)
+
 
 
 # 👋 Hi there, I'm Van Thanh
