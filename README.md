@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Van Thanh
 
-<!--
-**binst1/binst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- Currently a Computer Science student at University of Information Technology - Vietnam National University Ho Chi Minh City (UIT-VNUHCM)
+- Major: Computer Science
+- Passionate about Machine Learning and Algorithms
 
-Here are some ideas to get you started:
+## 🔍 Research Interests
+- Machine Learning
+- Artificial Intelligence
+- Algorithm Optimization
+- Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+```text
+Programming Languages:
+└── Python, C++
+
+## 🌱 Currently Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Advanced Algorithms
+
+## 📫 How to reach me
+- Email: hovanthanh452@gmail.com
+- Facebook: https://www.facebook.com/profile.php?id=100017912410448
+
+
