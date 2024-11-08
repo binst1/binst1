@@ -26,7 +26,6 @@
   
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
 
-
 ## 🌱 Currently Learning
 - Deep Learning
 - Computer Vision
@@ -36,3 +35,10 @@
 ## 📫 How to reach me
 - Email: hovanthanh452@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=100017912410448
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
